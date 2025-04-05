@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: test
-        image: kishores572004/alumni_student
+        image: sanjayvs600/agri
         imagePullPolicy: Always
         ports:
         - containerPort: 80
